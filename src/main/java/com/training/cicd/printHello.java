@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class printHello {
 	
 	public String printGreetings() {
-		return "Hi Oracle!!";
+		return "Hi I am Pooja, Nice to meet you!!!";
 	}
 }
